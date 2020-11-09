@@ -32,6 +32,8 @@ node index.js
 
 -Formatting of embed is pretty garbage and can be changed to look pretty.
 
+-You also have to change course id when making requests to API "course/{course ID}/"
+
 -Checking to see if assignments have been changed is possible but does require alot of skimming and taking into account running two requests at the same time(to schoology API) causes NONCE. 
 
 -Huge thanks to Sheeptester for the actual brains of this bot!!!!!! https://github.com/SheepTester/sgy-sgy#sgy-sgy I dont know anyhting about Get requests and working with the Schoology APi so hes the real hero. 
